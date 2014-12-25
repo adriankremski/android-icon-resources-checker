@@ -11,6 +11,8 @@ ruby check_resources.rb absolute_path_to_your_android_res_direcory
 
 As a result this command will generate for you index.html file inside script directory with summary of your android png resources.
 
+![Example result](result.png)
+
 
 ### MIT License
 
